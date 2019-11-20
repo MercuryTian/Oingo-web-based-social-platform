@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@google/maps": "^0.5.5",
-    "angular": "^1.7.5",
+    "angular": "^1.7.9",
     "art-template": "^4.13.2",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
